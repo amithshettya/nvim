@@ -26,3 +26,5 @@ vim.opt.inccommand = "split"
 vim.opt.termguicolors = true 
 
 vim.g.mapleader = " "
+
+vim.o.hidden = true
